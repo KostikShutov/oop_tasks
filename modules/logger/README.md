@@ -1,6 +1,6 @@
 # Логирование
 
-См. <https://refactoring.guru/ru/design-patterns/factory-method>
+См. <https://refactoring.guru/ru/design-patterns/factory-method>\
 См. <https://refactoring.guru/ru/design-patterns/decorator>
 
 Необходимо:
